@@ -16,39 +16,39 @@ Shell scripting is a powerful tool used in software development and system admin
 
 Here's a brief overview of each script in this repository:
 
-### 1. app-deployment-errors-fault-diagnostic-harish.sh
+### 1. [app-deployment-errors-fault-diagnostic-harish.sh](https://github.com/Harishwin/shell-scripting-all-in-one/blob/main/app-deployment-errors-fault-diagnostic-harish.sh)
 
 This script automates the deployment of a Django-based application using shell commands. It also includes error and fault diagnostic routines to assist with troubleshooting.
 
-### 2. arguments-harish.sh
+### 2. [arguments-harish.sh](
 
 Demonstrates how to handle command-line arguments within a shell script, providing a basic template for processing user input.
 
-### 3. conditions-harish.sh
+### 3. [conditions-harish.sh](
 
 Illustrates the use of conditional statements in shell scripting by prompting the user for input and branching based on their response.
 
-### 4. create_ec2.sh
+### 4. [create_ec2.sh](
 
 Automates the creation of an EC2 instance on AWS using the AWS CLI. It ensures the AWS CLI is installed and then proceeds to create the instance.
 
-### 5. for-loop-arguments-harish.sh
+### 5. [for-loop-arguments-harish.sh](
 
 Utilizes a `for` loop to perform repetitive tasks, such as creating multiple folders. It showcases how to handle iteration and parameterization in shell scripts.
 
-### 6. intro-shell-scripting-harish.sh
+### 6. [intro-shell-scripting-harish.sh](
 
 Provides an introductory overview of shell scripting, highlighting its significance in software development and DevOps practices.
 
-### 7. user-adding-harish.sh
+### 7. [user-adding-harish.sh](
 
 Prompts the user to input a username and adds a new user to the system using the `useradd` command. It demonstrates user interaction and system administration tasks in shell scripts.
 
-### 8. variables-harish.sh
+### 8. [variables-harish.sh](
 
 Demonstrates variable usage in shell scripts, covering declaration, assignment, and utilization in commands. It showcases how to store and manipulate data within scripts.
 
-### 9. while-loop-harish.sh
+### 9. [while-loop-harish.sh](
 
 Uses a `while` loop to iterate and perform a task repeatedly, exemplifying the control flow constructs available in shell scripting.
 
