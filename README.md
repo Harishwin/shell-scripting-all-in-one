@@ -7,7 +7,6 @@ Welcome to the Shell Scripting All-in-One repository! This collection of shell s
 1. [Introduction](#introduction)
 2. [Scripts Overview](#scripts-overview)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
 
 ## Introduction
 
@@ -74,6 +73,9 @@ To run any of the scripts, follow these steps:
     ```bash
     ./script_name.sh
     ```
+### Credits
+Special thanks to [Shubham Londhe](https://github.com/LondheShubham153) for the valuable contributions and inspiration for this project.
+
 
 ## Contributing
 
