@@ -1,7 +1,3 @@
-Certainly! Here's an improved and more descriptive README file:
-
----
-
 # Shell Scripting All-in-One
 
 Welcome to the Shell Scripting All-in-One repository! This collection of shell scripts serves various purposes, from automating deployment tasks to demonstrating fundamental scripting concepts.
@@ -12,7 +8,6 @@ Welcome to the Shell Scripting All-in-One repository! This collection of shell s
 2. [Scripts Overview](#scripts-overview)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
