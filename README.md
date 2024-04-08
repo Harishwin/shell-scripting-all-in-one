@@ -74,7 +74,7 @@ To run any of the scripts, follow these steps:
     ./script_name.sh
     ```
 ### Credits
-Special thanks to [Shubham Londhe](https://github.com/LondheShubham153) for the valuable contributions and inspiration for this project.
+Special thanks to [Shubham Londhe](https://github.com/LondheShubham153) for the valuable contributions and inspiration for this Topic.
 
 
 ## Contributing
